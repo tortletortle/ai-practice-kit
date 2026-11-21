@@ -8,6 +8,13 @@
 | `skills/` | 给支持 `SKILL.md` 的智能体加载完整工作流程 | [高质量 PDF 制作](skills/high-quality-pdf/SKILL.md) · [逐页验收细则](skills/high-quality-pdf/references/pdf-review.md) |
 | `prompts/` | 复制提示词完成一次具体任务 | [中文教学 PDF](prompts/chinese-pdf.md) |
 
+## 实践索引
+
+- [先查根因，再决定改哪里](experience/trace-root-causes.md) · 用构建产物异常变大演示如何定位问题。
+- [用验收结果衡量长任务执行力](experience/long-running-delivery.md) · 定义完成条件、诊断失败、恢复执行、交付可验证成果。
+- [先核对工具规则，再解释现象](experience/evidence-first.md) · 区分观察、推断和不确定之处。
+- [让 AI 排查根因并交付验证结果](prompts/ai-debug-and-deliver.md) · 可直接填入项目背景和验收条件。
+
 ## 开始使用
 
 - 用提示词时，复制正文并替换方括号内的字段。
