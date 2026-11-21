@@ -16,6 +16,14 @@
 - [AI 协作系统提示词](prompts/system-prompt.md) · 汇总长期适用的判断、执行、学习和交付规则。
 - [让 AI 排查根因并交付验证结果](prompts/ai-debug-and-deliver.md) · 可直接填入项目背景和验收条件。
 
+## 更多实践
+
+- [按阶段分配模型与工具](experience/model-routing-and-handoff.md)
+- [独立探索与多智能体汇总](experience/independent-exploration.md)
+- [研发立项、实验与产品形态](experience/research-and-project-scope.md)
+- [游戏中的贴图、教程与界面空间](experience/game-ui-and-art.md)
+- [用 AI 提示、诊断和复测](experience/ai-assisted-learning.md)
+
 ## 开始使用
 
 - 用提示词时，复制正文并替换方括号内的字段。
