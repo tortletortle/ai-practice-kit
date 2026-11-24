@@ -33,3 +33,16 @@
 ## 许可证
 
 [MIT](LICENSE)
+
+
+## 前端设计能力训练
+
+通过真实题目训练产品理解、视觉审美、交互设计和前端工程能力，严格执行“先生成效果图 → 用户审查 → 前端实现 → 浏览器验收 → 截图交付 → 用户批评 → 提示词进化”的闭环。
+
+- [训练总览与目录](frontend-training/README.md)
+- [前端设计原则](frontend-training/DESIGN_PRINCIPLES.md)
+- [主训练提示词 V1.0](frontend-training/PROMPT_V1.md)
+- [统一评分标准](frontend-training/evaluation-rubric.md)
+- [训练总台账](frontend-training/training-log.md)
+
+每轮必须保留原始题目、效果图、真实运行截图、测试证据、用户原始批评、根因分析和提示词版本差异。
